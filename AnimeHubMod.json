@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "0187d3885f0e546c",
+    "username": "6282125794676",
+    "password": "animehub",
+    "expiresAt": "2026-06-09",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
